@@ -1,0 +1,10 @@
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\bin\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.deps.json
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\bin\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.runtimeconfig.json
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\bin\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.runtimeconfig.dev.json
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\bin\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.dll
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\obj\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.csproj.CoreCompileInputs.cache
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\obj\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.AssemblyInfoInputs.cache
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\obj\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.AssemblyInfo.cs
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\bin\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.pdb
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\obj\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.dll
+C:\Users\xunder\source\repos\ToToRoBot_CrossPlatform\ToToRoBot_CrossPlatform\obj\Debug\netcoreapp2.1\ToToRoBot_CrossPlatform.pdb
